@@ -164,5 +164,5 @@ except Exception as e:
     print("Expected failure (RequireAuth). Error:")
     print(str(e)[:200])
 
-print("\n✅ Demo complete.")
+print("\nDemo complete.")
 print("Tip: open the Explorer links printed above during your screen recording to show audit trail.")
