@@ -51,9 +51,6 @@ Every step is recorded on XRPL Testnet for transparency and auditability.
 
 ## How to Run (XRPL Testnet)
 
-### Requirements
-- Python 3.11+ installed
-
 ### Install dependencies
 ```bash
 pip install -r requirements.txt
