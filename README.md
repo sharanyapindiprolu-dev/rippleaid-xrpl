@@ -51,6 +51,8 @@ Every step is recorded on XRPL Testnet for transparency and auditability.
 
 ## How to Run (XRPL Testnet)
 
+## How to Run (XRPL Testnet)
+
 ### Install dependencies
 ```bash
 pip install -r requirements.txt
